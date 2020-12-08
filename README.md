@@ -2,18 +2,15 @@
   <h1 align="center">Hi there, I'm Durvas Naik👦,</h1>
   <p align="center">I'm a 25 Y/O Web Developer 🇮🇳, Who codes in Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>.</p>
   <p align="center">
-    <a href="https://twitter.com/durvasnaik1995" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/durvasnaik1995?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge" />
+    <a href="https://twitter.com/durvas1995" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/durvas1995?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge" />
 <!--       <img height="32" width="32" style="color:#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> -->
     </a>
     <a href="https://instagram.com/shubh_am_naik_" target="_blank">
-      <img src="https://img.shields.io/badge/Follow-%40PiyushSthr-orange?style=for-the-badge&logo=instagram" />
+      <img src="https://img.shields.io/badge/Follow-%40DurvasNaik-orange?style=for-the-badge&logo=instagram" />
     </a>
-    <a href="https://dev.to/piyush" target="_blank">
-      <img src="https://img.shields.io/badge/Follow-@Piyush-black?style=for-the-badge&logo=dev.to" />
-    </a>
-    <a href="http://hits.dwyl.com/piyushsuthar/piyushsuthar" target="_blank">
-      <img src="http://hits.dwyl.com/piyushsuthar/piyushsuthar.svg" />
+    <a href="http://hits.dwyl.com/durvasnaik1995/durvasnaik1995" target="_blank">
+      <img src="http://hits.dwyl.com/durvasnaik1995/durvasnaik1995.svg" />
     </a>
   </p>
   <p align="center">
