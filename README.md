@@ -33,14 +33,14 @@
   I'm currently learning NodeJs<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>, ReactJS<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> and Typescript<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
   I love contributing to OPEN-SOURCE❤.</p>
   <h4 align="center">📫 How to reach me?</h4>
-  <p align="center">You may follow me on <a href="https://instagram.com/shubh_am_naik_">Instagram</a> or <a href="https://twitter.com/durvasnaik1995">Twitter</a>. You can even create an issue <a href="https://github.com/durvasnaik1995/durvasnaik1995/issues/new">here</a>!</p>
+  <p align="center">You may follow me on <a href="https://instagram.com/shubh_am_naik_">Instagram</a> or <a href="https://twitter.com/durvas1995">Twitter</a>. You can even create an issue <a href="https://github.com/durvasnaik1995/durvasnaik1995/issues/new">here</a>!</p>
 </p>
 <details align="center">
   <summary>Github Stats 📈:</summary>
 <p align="center" justify="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" justify="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&include_all_commits=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=durvasnaik1995&show_icons=true&title_color=2e2e2e&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvasnaik1995&layout=compact" />
   </a>
 </p>
 </details>
@@ -49,15 +49,7 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=piyushsuthar&theme=gruvbox"/>
-  </a>
-</p>
-</details>
-<details align="center">
-  <summary>Latest Dev.to Article 📝:</summary>
-<p align="center">
-  <a href="https://dev.to/durvasnaik1995" target="_blank">
-    <img src="https://latest-devto-post.vercel.app/api?username=piyush"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=durvasnaik1995&theme=gruvbox"/>
   </a>
 </p>
 </details>
