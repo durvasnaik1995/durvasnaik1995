@@ -2,11 +2,11 @@
   <h1 align="center">Hi there, I'm Durvas Naik👦,</h1>
   <p align="center">I'm a 25 Y/O Web Developer 🇮🇳, Who codes in Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>.</p>
   <p align="center">
-    <a href="https://twitter.com/piyushsthr" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/piyushsthr?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge" />
+    <a href="https://twitter.com/durvasnaik1995" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/durvasnaik1995?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge" />
 <!--       <img height="32" width="32" style="color:#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> -->
     </a>
-    <a href="https://instagram.com/piyushsthr" target="_blank">
+    <a href="https://instagram.com/shubh_am_naik_" target="_blank">
       <img src="https://img.shields.io/badge/Follow-%40PiyushSthr-orange?style=for-the-badge&logo=instagram" />
     </a>
     <a href="https://dev.to/piyush" target="_blank">
@@ -32,11 +32,11 @@
 </p>
 <p align="center">
   <h4 align="center">About Me!</h4>
-  <p align="center">Hi!🖐 I'm Piyush Suthar, a 16 Y/O web developer from India🇮🇳.
+  <p align="center">Hi!🖐 I'm Durvas Naik, a 25 Y/O web developer from India🇮🇳.
   I'm currently learning NodeJs<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>, ReactJS<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> and Typescript<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
   I love contributing to OPEN-SOURCE❤.</p>
   <h4 align="center">📫 How to reach me?</h4>
-  <p align="center">You may follow me on <a href="https://instagram.com/piyushsthr">Instagram</a> or <a href="https://twitter.com/piyushsthr">Twitter</a>. You can even create an issue <a href="https://github.com/PiyushSuthar/PiyushSuthar/issues/new">here</a>!</p>
+  <p align="center">You may follow me on <a href="https://instagram.com/shubh_am_naik_">Instagram</a> or <a href="https://twitter.com/durvasnaik1995">Twitter</a>. You can even create an issue <a href="https://github.com/durvasnaik1995/durvasnaik1995/issues/new">here</a>!</p>
 </p>
 <details align="center">
   <summary>Github Stats 📈:</summary>
@@ -59,7 +59,7 @@
 <details align="center">
   <summary>Latest Dev.to Article 📝:</summary>
 <p align="center">
-  <a href="https://dev.to/piyush" target="_blank">
+  <a href="https://dev.to/durvasnaik1995" target="_blank">
     <img src="https://latest-devto-post.vercel.app/api?username=piyush"/>
   </a>
 </p>
@@ -68,7 +68,7 @@
 <details align="center">
   <summary>Motivate Yourself:</summary>
   <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a href="https://github.com/durvasnaik1995/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
   </a>
 </p>
