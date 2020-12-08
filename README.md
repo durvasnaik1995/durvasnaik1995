@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-https://www.canva.com/design/DAECEu74BNA/view?utm_content=DAECEu74BNA&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+<img src=https://www.canva.com/design/DAECEu74BNA/view?utm_content=DAECEu74BNA&utm_campaign=designshare&utm_medium=link&utm_source=viewer/>
 
 <!--
 **durvasnaik1995/durvasnaik1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
