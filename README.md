@@ -38,7 +38,7 @@
 <details align="center">
   <summary>Github Stats 📈:</summary>
 <p align="center" justify="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" justify="center">
+  <a href="https://github.com/durvasnaik1995/github-readme-stats" target="_blank" justify="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=durvasnaik1995&show_icons=true&title_color=2e2e2e&include_all_commits=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvasnaik1995&layout=compact" />
   </a>
@@ -65,8 +65,7 @@
 
 <!--### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=durvasnaik1995)
-![counter](https://[YourEndpoint].m.pipedream.net)
+
 
 **durvasnaik1995/durvasnaik1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
