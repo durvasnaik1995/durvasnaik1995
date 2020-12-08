@@ -14,7 +14,7 @@
 <p align="center">
 <br>
 <a href="https://www.facebook.com/durvas.naik.3"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/the.cs.geek?igshid=shubh_am_naik_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://instagram.com/shubh_am_naik_?igshid=shubh_am_naik_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/durvas-naik-9b0589126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:durvasnaik1995@gmail.com?subject=Hola%20Durvas"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
@@ -64,7 +64,7 @@
 <br>
 <br>
 
-<!--
+
 <details>
   <summary>:zap: Github Stats</summary>
 <p align='center'>
@@ -74,14 +74,14 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvasnaik1995&show_icons=true&hide_border=true&theme=radical">
 </p>
-</details> -->
+</details>
 
 
-### :zap: Github Stats
+<!--### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.durvasnaik1995.vercel.app/api?username=durvasnaik1995&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.durvasnaik1995.vercel.app/api?username=durvasnaik1995&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Durvas's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.durvasnaik1995.vercel.app/api/top-langs/?username=durvasnaik1995&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Durvas's Top Languages">
+<img src="https://github-readme-stats.durvasnaik1995.vercel.app/api/top-langs/?username=durvasnaik1995&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Durvas's Top Languages">-->
 
 
 
