@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=durvasnaik1995)
+![counter](https://[YourEndpoint].m.pipedream.net)
 <!--
 **durvasnaik1995/durvasnaik1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
